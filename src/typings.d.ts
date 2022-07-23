@@ -144,6 +144,7 @@ interface IReaderSettings{
     staticNav: boolean
     showPageNumber: boolean
     loadNextonEnding: boolean
+    downloadNextDuringReading: boolean
     readerType: ReaderType
 }
 
